@@ -1,0 +1,29 @@
+
+.first {
+text-align: center;
+
+}
+.first div {
+    padding: 1em 1em;
+    background-color: beige;
+}
+h1 {
+    text-align: center;
+}
+button {
+    padding: 1em;
+    background-color: #E91E63;
+    border-radius: 30%;
+
+}
+
+.title {
+    background-color: #c08c9e;
+}
+main {
+    background-color: antiquewhite;
+}
+#append {
+    height: 500px;
+    background-color: #eee3a9
+}
